@@ -226,6 +226,7 @@ p {
     }
     .third-section button{
         width: 300px
+        color: white;
     }
     footer div{
         display: flex;
