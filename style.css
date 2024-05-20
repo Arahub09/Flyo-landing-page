@@ -70,6 +70,7 @@ section{
     padding: 2% 7%;
     vertical-align: middle;
     font-size: 1.25rem;
+    color: white;
 }
 .third-section input{
     display: inline-block;
@@ -226,7 +227,6 @@ p {
     }
     .third-section button{
         width: 300px
-        color: white;
     }
     footer div{
         display: flex;
